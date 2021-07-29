@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b25abb6c-7eed-4c22-9f1e-b6f84468f6e2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyg2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyg1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyg3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/United 2.py" />
+        <option value="$PROJECT_DIR$/Игра-настолка.py" />
+        <option value="$PROJECT_DIR$/numbers without the end.py" />
+        <option value="$PROJECT_DIR$/pyg1.py" />
+        <option value="$PROJECT_DIR$/venv/pyg2.py" />
+        <option value="$PROJECT_DIR$/pyg2.py" />
+        <option value="$PROJECT_DIR$/venv/pyg3.py" />
+        <option value="$PROJECT_DIR$/pyg3.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="98" />
+    <option name="y" value="28" />
+    <option name="width" value="1400" />
+    <option name="height" value="820" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\PyCharm\PyCharm\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\PyCharm\PyCharm\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="untitled" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\PyCharm\PyCharm\untitled" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="venv" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (untitled) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (untitled) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="untitled" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../United1/United1.py" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.pyg3">
+    <configuration name="United 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm\PyCharm\untitled\Игра-настолка.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="United1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../United1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../United1/United1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyg3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyg3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.pyg3" />
+      <item itemvalue="Python.United1" />
+      <item itemvalue="Python.United 2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pyg3" />
+        <item itemvalue="Python.United 2" />
+        <item itemvalue="Python.United1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b25abb6c-7eed-4c22-9f1e-b6f84468f6e2" name="Default Changelist" comment="" />
+      <created>1591694272106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591694272106</updated>
+      <workItem from="1591694305691" duration="642000" />
+      <workItem from="1591695000666" duration="1777000" />
+      <workItem from="1591696818662" duration="1086000" />
+      <workItem from="1591701529105" duration="1665000" />
+      <workItem from="1591786808856" duration="608000" />
+      <workItem from="1591853476589" duration="1103000" />
+      <workItem from="1592038407875" duration="1710000" />
+      <workItem from="1592040341571" duration="976000" />
+      <workItem from="1592135786387" duration="1725000" />
+      <workItem from="1592231952534" duration="1633000" />
+      <workItem from="1592233859374" duration="595000" />
+      <workItem from="1601917159791" duration="1625000" />
+      <workItem from="1601918915234" duration="1829000" />
+      <workItem from="1601952199527" duration="489000" />
+      <workItem from="1601971424931" duration="1605000" />
+      <workItem from="1601973290976" duration="1363000" />
+      <workItem from="1601975524695" duration="1408000" />
+      <workItem from="1601978006605" duration="1779000" />
+      <workItem from="1601979826473" duration="1803000" />
+      <workItem from="1601981669544" duration="1753000" />
+      <workItem from="1601987600522" duration="1806000" />
+      <workItem from="1601989525219" duration="1976000" />
+      <workItem from="1601991926506" duration="1777000" />
+      <workItem from="1601993757669" duration="783000" />
+      <workItem from="1602075033807" duration="617000" />
+      <workItem from="1602080709697" duration="1777000" />
+      <workItem from="1602082522302" duration="1782000" />
+      <workItem from="1602084369257" duration="489000" />
+      <workItem from="1602165070695" duration="1563000" />
+      <workItem from="1602166846292" duration="289000" />
+      <workItem from="1602168232337" duration="62000" />
+      <workItem from="1602946123406" duration="1659000" />
+      <workItem from="1602947994308" duration="1619000" />
+      <workItem from="1602949862487" duration="1694000" />
+      <workItem from="1602951664853" duration="563000" />
+      <workItem from="1623215522258" duration="127000" />
+      <workItem from="1623215879956" duration="208000" />
+      <workItem from="1623933649688" duration="1249000" />
+      <workItem from="1624729004360" duration="178000" />
+      <workItem from="1625073770900" duration="1736000" />
+      <workItem from="1625075886893" duration="1716000" />
+      <workItem from="1625120790683" duration="1032000" />
+      <workItem from="1625123466648" duration="1714000" />
+      <workItem from="1625220356316" duration="1510000" />
+      <workItem from="1625226249182" duration="1742000" />
+      <workItem from="1625228126527" duration="1670000" />
+      <workItem from="1625230163582" duration="1797000" />
+      <workItem from="1625232018320" duration="457000" />
+      <workItem from="1625283706369" duration="1869000" />
+      <workItem from="1625286072679" duration="198000" />
+      <workItem from="1625508992858" duration="1736000" />
+      <workItem from="1625564258242" duration="596000" />
+      <workItem from="1625594420863" duration="1764000" />
+      <workItem from="1625596381696" duration="883000" />
+      <workItem from="1625657653278" duration="1420000" />
+      <workItem from="1625659417886" duration="1768000" />
+      <workItem from="1625661249687" duration="1262000" />
+      <workItem from="1625680441357" duration="1767000" />
+      <workItem from="1626864377063" duration="1679000" />
+      <workItem from="1626866321774" duration="1742000" />
+      <workItem from="1626868166449" duration="990000" />
+      <workItem from="1626878789632" duration="1211000" />
+      <workItem from="1626881068362" duration="1784000" />
+      <workItem from="1627281835630" duration="1702000" />
+      <workItem from="1627283767440" duration="1316000" />
+      <workItem from="1627379989637" duration="1755000" />
+      <workItem from="1627381864026" duration="1431000" />
+      <workItem from="1627384076656" duration="1309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="88948000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.43637532" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32974428" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.2422611" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.39838493" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled$numbers_without_the_end.coverage" NAME="pyg1 Coverage Results" MODIFIED="1623216057147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pyg3.coverage" NAME="pyg3 Coverage Results" MODIFIED="1627385350346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$United1.coverage" NAME="United1 Coverage Results" MODIFIED="1591702165190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../United1" />
+    <SUITE FILE_PATH="coverage/untitled$pyg1.coverage" NAME="pyg2 Coverage Results" MODIFIED="1625077341768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$United_2.coverage" NAME="United 2 Coverage Results" MODIFIED="1591702779212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$pyg2.coverage" NAME="pyg3 Coverage Results" MODIFIED="1626865745079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-241726544/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="289" column="4" selection-start-line="289" selection-start-column="4" selection-end-line="289" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/pyg2.py" />
+    <entry file="file://$PROJECT_DIR$/../United1/United1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Игра-настолка.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/numbers without the end.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/p2.png" />
+    <entry file="file://$PROJECT_DIR$/p3.png" />
+    <entry file="file://$PROJECT_DIR$/p4.png" />
+    <entry file="file://$PROJECT_DIR$/p5.png" />
+    <entry file="file://$PROJECT_DIR$/p6.png" />
+    <entry file="file://$PROJECT_DIR$/p7.png" />
+    <entry file="file://$PROJECT_DIR$/p8.png" />
+    <entry file="file://$PROJECT_DIR$/mers.jpg" />
+    <entry file="file://$PROJECT_DIR$/background.png" />
+    <entry file="file://$PROJECT_DIR$/p1.png" />
+    <entry file="file://$PROJECT_DIR$/venv/pyg3.py" />
+    <entry file="file://$PROJECT_DIR$/flex1.png" />
+    <entry file="file://$PROJECT_DIR$/pyg2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyg1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyg3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
